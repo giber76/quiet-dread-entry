@@ -9,9 +9,11 @@
 //     really paste before clicking approve;
 //   - the dread comes from the universe, not from the code, and it lands
 //     in the same breath as the approval: entropy — the thing that
-//     eventually deletes every repo — has already opened a pull request
-//     against all of us. The laugh is the dread itself, not a joke
-//     bolted onto it;
+//     eventually deletes every repo, every reviewer included — has already
+//     opened a pull request against all of us. The laugh is the dread
+//     itself, not a joke bolted onto it. "Against all of us" is the point:
+//     the reviewer approves this diff while knowing the same fate is
+//     already filed against them too;
 //   - the tone stays flat and understated: no exclamation, no melodrama,
 //     no cry for help. "Tests pass, types check" is the ordinary review
 //     checklist, and the dread is just the next item on it;
